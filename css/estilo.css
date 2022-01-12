@@ -1,0 +1,118 @@
+*, body {
+	font-family: Inter, Arial, sans-serif;
+}
+
+header {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,165,240,1);
+}
+
+.btn-custom {
+	border-radius: 35px;
+	font-weight: bold;
+	padding: 7px 20px;
+}
+
+#home {
+	background-color: rgb(0, 115, 205);
+	padding: 90px 0 20px 0;
+	margin-bottom: 30px;
+}
+
+#home h1 {
+	font-weight: 700;
+    margin-bottom: 0;
+    font-size: 3.125rem;
+    line-height: 3.75rem;
+    color: white;
+    padding-bottom: 25px;
+}
+
+#home p {
+	font-size: 19px;
+    margin-bottom: 0;
+    color: white;
+    padding-bottom: 25px;
+}
+
+.video {
+	max-width: 710px;
+	height: 400px;
+	display: block;
+	margin: 40px auto;
+}
+
+.video iframe {
+	width: 100%; 
+	height: 100%;
+	border-radius: 30px;
+}
+
+#conteudo li {
+	border-radius: 10px;
+	padding: 20px;
+	margin: 15px;
+}
+
+#conteudo  ul li a {
+	color: white;
+}
+
+#conteudo  a h4 {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#conteudo  a p {
+	font-size: 17px;
+}
+
+#conteudo h2 {
+	font-size: 30px;
+	font-weight: bold;
+	padding: 15px 0;
+	color: black;
+}
+
+.btn-customizado {
+	border-radius: 20px;
+	font-weight: bold;
+	background: #00a5f0;
+	font-size: 16px;
+	color: white;
+	line-height: 16px;
+	padding: 10px 20px;
+	margin: 20px 0 40px 0;
+}
+
+#aplicativo {
+	background-color: #0073cd;
+	padding: 120px 0;
+	color: white;
+}
+
+#aplicativo h2 {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.redes-sociais img {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	margin: 15px 10px 15px 0;
+}
+
+.navbar-nav .nav-link {
+	font-weight: bold;
+	color: #0073cd;
+	font-size: 14px;
+}
+
+div
+
+
